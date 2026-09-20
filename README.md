@@ -7,7 +7,7 @@
 <p>This is my target.</p>
 <p>This target is big and tiring especially when I have a full time job of Mechanical Engineering site work, where I hardly get time with any computer. And my wife is about to deliver a baby. So, after all this is done. Then I will carve out my future way.</p>
 <p>For now future road is like to become cloud architect, blockchain engineer, edge computing expert, game developer.</p>
-<p>I know docker. But, I have to learn Kubernetes, Terraform, Ansible (maybe), Jenkins, gcli, interconnecting services of GCP with each other. Then I will migrate to AWS and Azure and learn through videos available on youtube (most probably freecodecamp) on certification for them (even GCP).
+<p>I know docker. But, I have to learn Kubernetes, Terraform, Ansible (maybe), Linux system administration, Jenkins, gcli, interconnecting services of GCP with each other. Then I will migrate to AWS and Azure and learn through videos available on youtube (most probably freecodecamp) on certification for them (even GCP).
 <p>For Blockchain Engineer, I will look at the videos of cyfrin updraft.</p>
 <p>For edge computing, still there is no path visible. I will see on this later. As I already have a good knowledge of ESP 8266 through C. But, I will be using Golang to reach it.</p>
 <p>In the meantime, just that my knowledge on languages are not wasted, I will be solving some complex algorithmic programming exercises.</p>
