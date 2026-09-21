@@ -1,10 +1,6 @@
-# Ask user for their name
-name = input("What's your name? ").strip().title()
+def hello(to="world"):
+    print("hello,",to)
 
-#Split user's first name and last name
-first, last=name.split(" ")
-
-
-print(f"Hello, {first}")
-
-# Delete this. This is a marker. Harvard CS50 Python. Time paused 57:04 from 15:57:48
+hello()
+name=input("What's your name? ")
+hello(name)
