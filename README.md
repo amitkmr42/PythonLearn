@@ -1,4 +1,6 @@
 <h1>About This Project</h1>
+
+<p># Delete this. This is a marker. Harvard CS50 Python. Time paused 02:28:26 from 15:57:48</p>
 <p>This is just a practice file set which I am doing through learning Python formally through FreeCodeCamp Channel's free youtube video by CS50's Python Programming Course which 15:57:48 hours in length.</p>
 <p>I already know python in tit bits, but now I want to learn it fully. After which I will be doing FreeCodeCamp Channel's free youtube video course on Data Structure and Algorithms. Then I will move forward to book on Algorithms by CLRS. Both will have seperate repository which will be independent of this. Or they might have seperate folder in this repo. This we will see with time.</p>
 <p>This is not the end. Then I will learn GoLang which will be definitely in its own repository.</p>
