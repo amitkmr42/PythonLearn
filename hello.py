@@ -1,15 +1,10 @@
 # Ask user for their name
-name = input("What's your name? ")
+name = input("What's your name? ").strip().title()
 
-# Remove whitespace from str and capitalize user's name
-name=name.strip().title()
+#Split user's first name and last name
+first, last=name.split(" ")
 
-# Say hello to user
 
-"""
-This is also a comment
-But this is a multi line comment
-"""
-print(f"Hello, {name}")
+print(f"Hello, {first}")
 
 # Delete this. This is a marker. Harvard CS50 Python. Time paused 57:04 from 15:57:48
