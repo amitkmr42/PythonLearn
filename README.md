@@ -17,7 +17,7 @@
 <p>I am just a enthusiast of learning technology.</p>
 <p></p>
 <p>
-</br></br></br></br><font style="bold">Topic 1: Variables, Input/Output, and String Methods</br></br>
+</br></br></br></br><b>Topic 1: Variables, Input/Output, and String Methods</br></br>
 This section covers print(), input(), f-strings (f"..."), and string manipulation methods like .strip(), .title(), and .split().</br></br>
 
 The Cleanup Crew: Write a program that asks for a user's full name. Chain string methods to strip any extra whitespace from the beginning and end, and convert their input to title case. Print the cleaned-up name.</br></br>
@@ -67,5 +67,5 @@ Double Verification (AND logic): Ask for a username and a password. Print "Acces
 
 Video Game Controls (match case): Ask the user to input a movement key ("w", "a", "s", or "d"). Use a match statement to print "Up", "Left", "Down", or "Right". Include a catch-all case _: to print "Invalid key" if they type something else.</br></br>
 
-Chained Comparisons: Ask the user for their age. Use a chained comparison (e.g., 13 <= age <= 19) in an if statement to evaluate if they are a teenager, printing a corresponding message based on the result.</br></font>
+Chained Comparisons: Ask the user for their age. Use a chained comparison (e.g., 13 <= age <= 19) in an if statement to evaluate if they are a teenager, printing a corresponding message based on the result.</br></b>
 </p>
