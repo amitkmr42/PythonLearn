@@ -1,5 +1,4 @@
 <h1>About This Project</h1>
-
 <p># Delete this. This is a marker. Harvard CS50 Python. Time paused 07:51:00 from 15:57:48</p>
 <p>This is just a practice file set which I am doing through learning Python formally through FreeCodeCamp Channel's free youtube video by CS50's Python Programming Course which 15:57:48 hours in length.</p>
 <p>I already know python in tit bits, but now I want to learn it fully. After which I will be doing FreeCodeCamp Channel's free youtube video course on Data Structure and Algorithms. Then I will move forward to book on Algorithms by CLRS. Both will have seperate repository which will be independent of this. Or they might have seperate folder in this repo. This we will see with time.</p>
@@ -13,6 +12,6 @@
 <p>For Blockchain Engineer, I will look at the videos of cyfrin updraft.</p>
 <p>For edge computing, still there is no path visible. I will see on this later. As I already have a good knowledge of ESP 8266 through C. But, I will be using Golang to reach it.</p>
 <p>In the meantime, just that my knowledge on languages are not wasted, I will be solving some complex algorithmic programming exercises.</p>
-<p>Publically whoever want to see this or use this for themselvescan use it. But, this paragraph is for me. I have chalked this way out for myself.</p>
+<p>Publically whoever want to see this or use this for themselves can use it. But, this paragraph is for me. I have chalked this way out for myself.</p>
 <p>I am just a enthusiast of learning technology.</p>
 <p></p>
