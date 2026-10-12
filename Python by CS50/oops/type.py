@@ -1,1 +1,1 @@
-print(type(tuple()))
+print(type(dict()))
