@@ -1,10 +1,8 @@
-class Cat:
-    MEOWS = 3
+import argparse
 
-    def meow(self):
-        for _ in range(Cat.MEOWS):
-            print("meow")
+parser = argparse.ArgumentParser(description="Meow like a cat")
+parser.add_argument("-n", default=1, help = "number of times to meow", type=int)
+args = parser.parse_args()
 
-
-cat =Cat()
-cat.meow()
+for _ in range(int(args.n)):
+    print("meow")
